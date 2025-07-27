@@ -1,0 +1,10 @@
+.xmake/
+build/
+.marscode/
+.vscode/
+.cache/
+.vscode/
+debug/
+compile_commands.json
+src/rknn/
+
